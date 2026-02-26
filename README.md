@@ -12,7 +12,6 @@
 - HTML, CSS, Bootstrap
 
 ## 🚀 Projects
-- User Management System (Laravel)
 - Admin Panel
 
 ## 📫 Contact Me
