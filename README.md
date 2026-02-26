@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Nensi Thummar
 
-<!--
-**thummarnensi0-ui/thummarnensi0-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP & Laravel Developer  
+🚀 Passionate about Backend Development  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- PHP
+- Laravel
+- MySQL
+- Git & GitHub
+- HTML, CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- User Management System (Laravel)
+- Admin Panel
+
+## 📫 Contact Me
+- Email: thummarnensi04@gmail.com
